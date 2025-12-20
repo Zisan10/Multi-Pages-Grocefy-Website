@@ -2,7 +2,7 @@ import React from "react";
 
 import Heading from "../categoryHeading/Heading";
 import FrutsCat from "../../assets/fruits-and-veggies.png";
-import SeaFoodCat from "../../assets/meat-and-seaFood.png";
+import SeaFoodCat from "../../assets/meat-and-seafood.png";
 import DairyCat from "../../assets/dairy-and-eggs.png";
 import { Link } from "react-router-dom";
 
